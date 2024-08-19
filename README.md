@@ -22,9 +22,10 @@ The script sets up a voice assistant that:
 To run the script, ensure you have the required dependencies installed and execute both:
 
 `python agent.py dev`
+
 `python call_phone.py`
 
-Visit `http:/127.0.0.1:5001`, enter a phone number and call your agent.
+Visit `http://127.0.0.1:5001`, enter a phone number and call your agent.
 
 ## SIP Trunk Integration
 
